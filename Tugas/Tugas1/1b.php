@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-    $npm = 131;
+    $npm = 31;
 
     echo "Aku adalah angka <b>$npm</b>";
     echo "<br>";
